@@ -1,0 +1,2 @@
+# 无第三方依赖 —— 只用 Python 标准库，刻意保持 clone 即跑。
+# 保留此文件是为了让 pip install -r requirements.txt 这种惯例命令不报错。
